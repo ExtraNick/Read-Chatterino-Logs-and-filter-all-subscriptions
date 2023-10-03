@@ -26,3 +26,7 @@ In order for this to work:<br>
 You gotta install pandas and numpy also<br>
 Import excel with data<br>
 
+After the above is done (and assuming you are using Visual Studio Code):<br>
+Select Python in the "Select Kernel option"<br>
+Click "Run all" <br>
+
