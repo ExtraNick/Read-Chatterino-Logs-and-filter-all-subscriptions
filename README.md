@@ -14,7 +14,7 @@ Three files will be created: <br>
 2.ChatHistory contains all messages and users.<br>
 3.TotalSubscriber contains all gifted subs, subscribers and converted subscribers.<br>
 
-## Requierements: <br>
+## Requirements: <br>
 1. Python.<br>
 2. Pandas (see https://pandas.pydata.org/docs/getting_started/install.html).<br>
 3. Visual Studio Code or any environment to run Jupyter Notebook.<br>
