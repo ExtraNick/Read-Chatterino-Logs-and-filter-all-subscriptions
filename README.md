@@ -12,7 +12,7 @@ Click "Run all" <br>
 Three files will be created: <br>
 1.Output contains the whole filtered log including Null rows and columns.<br>
 2.ChatHistory contains all messages and users.<br>
-3.TotalSubscriber contains all gifted subs, subscribers and converted subscribers.<br>
+3.Gifted-Cheers-Subs contains all gifted subs, subscribers and converted subscribers.<br>
 
 ## Requirements: <br>
 1. Python.<br>
